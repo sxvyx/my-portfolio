@@ -1,205 +1,233 @@
 {
-  "brand": "Alex Morgan",
+  "brand": "Test SavyX",
   "profile": {
-    "name": "Alex Morgan",
-    "initials": "AM",
-    "title": "Business Analyst • Software Engineer",
-    "tagline": "Bridging business strategy with technical execution.",
-    "summary": "Versatile professional with 6+ years of experience translating complex business requirements into scalable digital products. Comfortable across the full delivery lifecycle — from stakeholder workshops and process modeling to API design and front-end implementation. I help teams ship the right thing, faster.",
-    "location": "New York, NY (Open to Remote)",
-    "email": "alex.morgan@example.com",
-    "phone": "+1 (555) 123-4567"
+    "name": "Test SavyX",
+    "initials": "TS",
+    "title": "Full Stack Developer",
+    "tagline": "Full Stack Developer",
+    "summary": "Akberhusain Shaikh is a Full Stack Developer specializing in Java, Spring Boot, React.js, and AWS with proven experience at Amazon optimizing backend systems and database performance. He has a competitive programming background with 800+ problems solved and consistent top 5% ranking on LeetCode. He focuses on building scalable, reliable systems and efficient APIs.",
+    "location": "Ahmedabad, Gujarat",
+    "email": "akberhusain.shaikh@gmail.com",
+    "phone": "+91 98765 12345"
   },
   "nav": [
-    { "label": "About", "href": "#about" },
-    { "label": "Experience", "href": "#experience" },
-    { "label": "Education", "href": "#education" },
-    { "label": "Projects", "href": "#projects" },
-    { "label": "Skills", "href": "#skills" },
-    { "label": "Certifications", "href": "#certifications" }
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Education",
+      "href": "#education"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Certifications",
+      "href": "#certifications"
+    }
   ],
   "experiences": [
     {
-      "id": "exp-1",
-      "role": "Senior Business Analyst",
-      "company": "Northwind Consulting",
-      "location": "New York, NY",
-      "start": "Mar 2022",
-      "end": "Present",
-      "current": true,
-      "stack": ["SQL", "Tableau", "Jira", "Azure"],
+      "id": "cmr0yinoo000xnle402c4jmgr",
+      "role": "Software Engineering Intern",
+      "company": "Amazon",
+      "location": "",
+      "start": "2025-05-01",
+      "end": "2025-07-31",
+      "current": false,
       "bullets": [
-        "Led requirements discovery for a $4M enterprise CRM migration impacting 800+ users across 3 regions.",
-        "Built executive dashboards that reduced weekly reporting effort from 12 hours to under 2 hours.",
-        "Coached a team of 4 junior analysts on stakeholder management and process modeling best practices."
-      ]
-    },
-    {
-      "id": "exp-2",
-      "role": "Software Engineer",
-      "company": "Lumen Labs",
-      "location": "Remote",
-      "start": "Jul 2020",
-      "end": "Feb 2022",
-      "stack": ["TypeScript", "React", "Node.js", "PostgreSQL"],
-      "bullets": [
-        "Designed and shipped an internal tooling platform used daily by 200+ operations staff.",
-        "Reduced p95 API latency by 38% by introducing caching, pagination, and query optimization.",
-        "Owned end-to-end delivery: RFC, implementation, observability, and on-call rotation."
-      ]
-    },
-    {
-      "id": "exp-3",
-      "role": "Business Analyst",
-      "company": "Meridian Financial",
-      "location": "Boston, MA",
-      "start": "Aug 2018",
-      "end": "Jun 2020",
-      "stack": ["Excel", "Power BI", "SQL"],
-      "bullets": [
-        "Authored BRD/FRD documents for a digital onboarding flow that lifted conversion by 17%.",
-        "Partnered with compliance and engineering to roll out a new KYC workflow in 4 markets."
-      ]
-    },
-    {
-      "id": "exp-4",
-      "role": "Junior Analyst (Intern)",
-      "company": "Cascade Insights",
-      "location": "Boston, MA",
-      "start": "May 2017",
-      "end": "Jul 2018",
-      "bullets": [
-        "Automated weekly KPI rollups, eliminating ~10 hours of manual work per cycle.",
-        "Supported client workshops and translated findings into actionable product briefs."
+        "Architected and deployed backend APIs using Spring Boot handling 10,000+ daily transactions with 99.9% uptime, serving critical payment processing workflows. Built AWS S3-based file storage and processing pipeline, reducing file processing time by 15% and supporting 5,000+ daily uploads. Wrote comprehensive unit and integration tests using JUnit and Mockito, achieving 92% code coverage and reducing production bugs by 40%. Documented 20+ RESTful API endpoints using Swagger/OpenAPI, improving developer onboarding efficiency and cross-team collaboration."
+      ],
+      "stack": [
+        "Spring Boot",
+        "AWS",
+        "JUnit",
+        "Mockito",
+        "Swagger/OpenAPI"
       ]
     }
   ],
   "education": [
     {
-      "id": "edu-1",
-      "degree": "M.S. in Information Systems",
-      "institution": "Northeastern University",
-      "location": "Boston, MA",
-      "start": "2018",
-      "end": "2020",
-      "gpa": "3.9 / 4.0",
-      "details": "Coursework in data warehousing, distributed systems, and product management. Capstone on decision-support dashboards for mid-market finance teams."
-    },
-    {
-      "id": "edu-2",
-      "degree": "B.S. in Business Administration",
-      "institution": "Boston University",
-      "location": "Boston, MA",
-      "start": "2014",
-      "end": "2018",
-      "gpa": "3.7 / 4.0",
-      "details": "Minor in Computer Science. Concentration in Operations & Information Management."
+      "id": "cmr0yinyt000ynle4da3ts7f3",
+      "degree": "B.Tech in Computer Science",
+      "institution": "Gujarat Technological University, Ahmedabad",
+      "location": "",
+      "start": "2022-06-01",
+      "end": "2026-06-01",
+      "details": "",
+      "gpa": "8.7/10.0"
     }
   ],
   "projects": [
     {
-      "id": "proj-1",
-      "title": "Insight Hub",
-      "description": "Self-serve analytics portal for non-technical stakeholders. Drag-and-drop dashboards, scheduled email reports, and role-based access control.",
-      "tags": ["Next.js", "TypeScript", "PostgreSQL", "D3.js"],
-      "highlights": [
-        "40+ active internal users",
-        "Cut ad-hoc data requests by ~60%"
-      ]
+      "id": "cmr0yio8t000znle4p9uwrwzw",
+      "title": "CareerPath AI - Intelligent Career Development Assistant",
+      "description": "AI platform that analyzes resumes using NLP to identify skill gaps and generates personalized week-by-week learning roadmaps for students and professionals. Engineered AI career navigation platform serving 1,000+ users with 4.8/5 satisfaction rating, analyzing resumes to identify skill gaps and generate personalized learning roadmaps. Built intelligent recommendation system with collaborative filtering algorithms and 'Job Readiness Score' analyzing 20+ parameters, tracking 10,000+ job postings for in-demand skills.",
+      "tags": [
+        "Python",
+        "Flask",
+        "React.js",
+        "NLP",
+        "TensorFlow",
+        "PostgreSQL",
+        "AWS",
+        "OpenAI API"
+      ],
+      "highlights": []
     },
     {
-      "id": "proj-2",
-      "title": "OpsFlow",
-      "description": "Lightweight workflow automation tool for operations teams. Visual rule builder, audit log, and integrations with Slack and Jira.",
-      "tags": ["React", "Node.js", "Express", "Redis"],
-      "highlights": [
-        "Replaced 3 internal spreadsheets",
-        "Used daily by 6 ops teams"
-      ]
-    },
-    {
-      "id": "proj-3",
-      "title": "KYC Modernization",
-      "description": "End-to-end redesign of a manual KYC process. New digital intake, automated document checks, and a case-management console for reviewers.",
-      "tags": ["Product", "Compliance", "Process Design"],
-      "highlights": ["Reduced onboarding time from 5 days to under 1 day"]
-    },
-    {
-      "id": "proj-4",
-      "title": "Career Compass",
-      "description": "Open-source resume and portfolio analyzer that scores readability, structure, and ATS-friendliness.",
-      "tags": ["TypeScript", "Next.js", "Tailwind"]
+      "id": "cmr0yio8t0010nle4k8qteiax",
+      "title": "MediCompare - Healthcare Price Transparency Platform",
+      "description": "Web platform that allows users to compare medical service prices across hospitals in real-time, helping reduce healthcare costs by up to 40%. Built healthcare aggregator enabling price comparison across 50+ hospitals, serving 2,000+ users and processing 500+ appointments with integrated payment gateway. Implemented geolocation-based search with Google Maps API handling 10,000+ service queries with sub-200ms response time and 45% user engagement increase.",
+      "tags": [
+        "Spring Boot",
+        "React.js",
+        "MySQL",
+        "Google Maps API",
+        "Razorpay",
+        "AWS",
+        "Redis"
+      ],
+      "highlights": []
     }
   ],
   "skills": [
     {
-      "category": "Product & Analysis",
+      "category": "Languages",
       "skills": [
-        { "name": "Requirements Engineering" },
-        { "name": "Stakeholder Management" },
-        { "name": "Process Modeling (BPMN)" },
-        { "name": "User Stories & Roadmaps" }
+        {
+          "name": "Java"
+        },
+        {
+          "name": "Python"
+        },
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "SQL"
+        }
       ]
     },
     {
       "category": "Frontend",
       "skills": [
-        { "name": "React / Next.js" },
-        { "name": "TypeScript" },
-        { "name": "Tailwind CSS" },
-        { "name": "Accessibility (WCAG)" }
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "React.js"
+        },
+        {
+          "name": "Redux"
+        },
+        {
+          "name": "Bootstrap"
+        },
+        {
+          "name": "Tailwind CSS"
+        }
       ]
     },
     {
       "category": "Backend",
       "skills": [
-        { "name": "Node.js" },
-        { "name": "PostgreSQL / SQL" },
-        { "name": "REST & GraphQL APIs" },
-        { "name": "System Design" }
+        {
+          "name": "Spring Boot"
+        },
+        {
+          "name": "Spring MVC"
+        },
+        {
+          "name": "Spring Security"
+        },
+        {
+          "name": "Hibernate"
+        },
+        {
+          "name": "JPA"
+        },
+        {
+          "name": "Flask"
+        }
       ]
     },
     {
-      "category": "Tools & Platforms",
+      "category": "Database",
       "skills": [
-        { "name": "Git & CI/CD" },
-        { "name": "Jira / Confluence" },
-        { "name": "Tableau / Power BI" },
-        { "name": "Azure / AWS (basic)" }
+        {
+          "name": "MySQL"
+        },
+        {
+          "name": "PostgreSQL"
+        },
+        {
+          "name": "MongoDB"
+        },
+        {
+          "name": "Redis"
+        }
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "skills": [
+        {
+          "name": "AWS"
+        },
+        {
+          "name": "Docker"
+        },
+        {
+          "name": "Jenkins"
+        },
+        {
+          "name": "Git"
+        },
+        {
+          "name": "GitHub"
+        },
+        {
+          "name": "Maven"
+        },
+        {
+          "name": "CI/CD"
+        }
       ]
     }
   ],
   "certifications": [
     {
-      "id": "cert-1",
-      "name": "Certified Scrum Product Owner (CSPO)",
-      "issuer": "Scrum Alliance",
-      "date": "2023",
-      "credentialId": "SA-XXXXXXX"
-    },
-    {
-      "id": "cert-2",
-      "name": "AWS Cloud Practitioner",
+      "id": "cmr0yiot3001snle4y3609ok2",
+      "name": "AWS Certified Cloud Practitioner",
       "issuer": "Amazon Web Services",
-      "date": "2022",
-      "credentialId": "AWS-XXXXXXX"
+      "date": "2025-06-01",
+      "credentialId": "https://aws.amazon.com/certification/certified-cloud-practitioner/"
     },
     {
-      "id": "cert-3",
-      "name": "IIBA Entry Certificate in Business Analysis (ECBA)",
-      "issuer": "IIBA",
-      "date": "2021",
-      "credentialId": "IIBA-XXXXXXX"
-    },
-    {
-      "id": "cert-4",
-      "name": "Google Data Analytics Professional Certificate",
-      "issuer": "Coursera / Google",
-      "date": "2020"
+      "id": "cmr0yiot3001tnle4bs0klwso",
+      "name": "Oracle Certified Java Programmer (OCJP)",
+      "issuer": "Oracle Corporation",
+      "date": "2022-01-01",
+      "credentialId": "https://www.oracle.com/education/certification/java-programmer.html"
     }
   ],
   "footer": {
-    "copyright": "© {year} Alex Morgan. All rights reserved.",
-    "note": "Built with the Professional Corporate Template — modular, reusable, and ready for the template marketplace."
+    "copyright": "© 2026 Test SavyX",
+    "note": "Generated with Portfolio Builder"
   }
 }
