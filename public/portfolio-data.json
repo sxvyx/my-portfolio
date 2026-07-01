@@ -3,13 +3,13 @@
   "profile": {
     "name": "SAURAV SHANKAR",
     "initials": "SS",
-    "title": "Computer Science undergraduate",
-    "tagline": "Computer Science undergraduate",
-    "summary": "SAURAV SHANKAR is a Computer Science undergraduate specializing in Data Analytics with a strong foundation in Python, SQL, and C++. He is experienced in building projects under tight deadlines through hackathons and is eager to apply analytical skills and technical knowledge to solve real-world data problems. He is a detail-oriented and results-driven individual with a strong passion for technology.",
+    "title": "Full-Stack Developer & Open Source Enthusiast",
+    "tagline": "Full-Stack Developer & Open Source Enthusiast",
+    "summary": "sxvyx is a skilled full-stack developer with expertise in TypeScript, JavaScript, HTML, and C. With a strong portfolio of projects, including ecommerce management systems and coding skills projects, sxvyx demonstrates a passion for innovative software development. Their experience in collaborating on open-source projects showcases their ability to work effectively in a team and contribute to the tech community.",
     "location": "New Delhi, Delhi",
-    "email": "sauravshankar2911@gmail.com",
+    "email": "oyelurker@gmail.com",
     "phone": "+91 8595767831",
-    "avatar": "https://github.com/oyelurker.png"
+    "avatar": "https://avatars.githubusercontent.com/u/192710520?v=4"
   },
   "nav": [
     {
@@ -39,7 +39,7 @@
   ],
   "experiences": [
     {
-      "id": "cmr245pkg004vnl9gph11pcsu",
+      "id": "cmr2dqn750000nlj8wwby2t1i",
       "role": "Volunteer QA & UI Tester",
       "company": "Discord Community",
       "location": "",
@@ -54,7 +54,7 @@
   ],
   "education": [
     {
-      "id": "cmr245pkg004wnl9ga19q1b55",
+      "id": "cmr2dqnfl0001nlj8nyfo32dw",
       "degree": "B.Tech in Computer Science",
       "institution": "SRM University Amravati",
       "location": "",
@@ -66,7 +66,7 @@
   ],
   "projects": [
     {
-      "id": "cmr245pkg004xnl9g7exbkayo",
+      "id": "cmr2dqnnw0002nlj8ofz83cbq",
       "title": "LegalKlarity – Demystifying Legal Documents with AI",
       "description": "Developed a Python-based content analysis microservice utilizing Generative AI to process and demystify complex legal jargon, directly addressing information asymmetry for non-expert users. Architected an NLP pipeline that extracts and summarizes critical clauses to help users identify potential financial risks in contracts. Integrated a Firebase database to store processed document insights, enabling fast retrieval and analysis of user queries.",
       "tags": [
@@ -78,7 +78,7 @@
       "highlights": []
     },
     {
-      "id": "cmr245pkg004ynl9ghh767yf5",
+      "id": "cmr2dqnnw0003nlj8r2p99jnh",
       "title": "SwacchSetu – Organic Waste Management Platform",
       "description": "Engineered a sustainable supply chain platform connecting waste generators with composters, utilizing the OpenCage Geocoding API to perform proximity-based spatial analysis for optimized pickup logistics. Designed and implemented a normalized MySQL database schema to manage complex relationships between households, businesses, and farmers, ensuring data integrity for order tracking. Built the backend logic to track and visualize waste diversion metrics, creating a data-driven circular economy model that quantifies organic waste recycling efficiency.",
       "tags": [
@@ -86,6 +86,15 @@
         "FastAPI",
         "MySQL",
         "OpenCage Geocoding API"
+      ],
+      "highlights": []
+    },
+    {
+      "id": "cmr2dqnnw0004nlj865c5snfh",
+      "title": "rentie-cloth-rental",
+      "description": "GitHub repository for rentie-cloth-rental",
+      "tags": [
+        "JavaScript"
       ],
       "highlights": []
     }
@@ -160,17 +169,31 @@
           "name": "JetBrains IDEs"
         }
       ]
+    },
+    {
+      "category": "Programming Languages",
+      "skills": [
+        {
+          "name": "TypeScript"
+        },
+        {
+          "name": "HTML"
+        },
+        {
+          "name": "C"
+        }
+      ]
     }
   ],
   "certifications": [
     {
-      "id": "cmr245pkh005enl9grjy3zrmr",
+      "id": "cmr2dqo4h000nnlj81yrdbr4t",
       "name": "Smart India Hackathon 2025",
       "issuer": "Smart India Hackathon",
       "date": "2025-01-01"
     },
     {
-      "id": "cmr245pkh005fnl9g4dnglc5h",
+      "id": "cmr2dqo4h000onlj8yqkucdq8",
       "name": "CodeBlindHunt 2024",
       "issuer": "CodeBlindHunt",
       "date": "2024-01-01"
