@@ -1,14 +1,14 @@
 {
-  "brand": "Test SavyX",
+  "brand": "SAURAV SHANKAR",
   "profile": {
-    "name": "Test SavyX",
-    "initials": "TS",
-    "title": "Full Stack Developer",
-    "tagline": "Full Stack Developer",
-    "summary": "Akberhusain Shaikh is a Full Stack Developer specializing in Java, Spring Boot, React.js, and AWS with proven experience at Amazon optimizing backend systems and database performance. He has a competitive programming background with 800+ problems solved and consistent top 5% ranking on LeetCode. He focuses on building scalable, reliable systems and efficient APIs.",
-    "location": "Ahmedabad, Gujarat",
-    "email": "akberhusain.shaikh@gmail.com",
-    "phone": "+91 98765 12345"
+    "name": "SAURAV SHANKAR",
+    "initials": "SS",
+    "title": "Computer Science undergraduate",
+    "tagline": "Computer Science undergraduate",
+    "summary": "SAURAV SHANKAR is a Computer Science undergraduate specializing in Data Analytics with a strong foundation in Python, SQL, and C++. He is experienced in building projects under tight deadlines through hackathons and is eager to apply analytical skills and technical knowledge to solve real-world data problems. He is a skilled developer with a strong passion for innovation and problem-solving.",
+    "location": "New Delhi, Delhi",
+    "email": "sauravshankar2911@gmail.com",
+    "phone": "+91 8595767831"
   },
   "nav": [
     {
@@ -36,68 +36,41 @@
       "href": "#certifications"
     }
   ],
-  "experiences": [
-    {
-      "id": "cmr0yinoo000xnle402c4jmgr",
-      "role": "Software Engineering Intern",
-      "company": "Amazon",
-      "location": "",
-      "start": "2025-05-01",
-      "end": "2025-07-31",
-      "current": false,
-      "bullets": [
-        "Architected and deployed backend APIs using Spring Boot handling 10,000+ daily transactions with 99.9% uptime, serving critical payment processing workflows. Built AWS S3-based file storage and processing pipeline, reducing file processing time by 15% and supporting 5,000+ daily uploads. Wrote comprehensive unit and integration tests using JUnit and Mockito, achieving 92% code coverage and reducing production bugs by 40%. Documented 20+ RESTful API endpoints using Swagger/OpenAPI, improving developer onboarding efficiency and cross-team collaboration."
-      ],
-      "stack": [
-        "Spring Boot",
-        "AWS",
-        "JUnit",
-        "Mockito",
-        "Swagger/OpenAPI"
-      ]
-    }
-  ],
+  "experiences": [],
   "education": [
     {
-      "id": "cmr0yinyt000ynle4da3ts7f3",
+      "id": "cmr23omkd0004nl008y207tuw",
       "degree": "B.Tech in Computer Science",
-      "institution": "Gujarat Technological University, Ahmedabad",
+      "institution": "SRM University Amravati",
       "location": "",
-      "start": "2022-06-01",
-      "end": "2026-06-01",
-      "details": "",
-      "gpa": "8.7/10.0"
+      "start": "2024-06-01",
+      "end": "2028-06-01",
+      "details": "Computer Science",
+      "gpa": "9.2 / 10.0"
     }
   ],
   "projects": [
     {
-      "id": "cmr0yio8t000znle4p9uwrwzw",
-      "title": "CareerPath AI - Intelligent Career Development Assistant",
-      "description": "AI platform that analyzes resumes using NLP to identify skill gaps and generates personalized week-by-week learning roadmaps for students and professionals. Engineered AI career navigation platform serving 1,000+ users with 4.8/5 satisfaction rating, analyzing resumes to identify skill gaps and generate personalized learning roadmaps. Built intelligent recommendation system with collaborative filtering algorithms and 'Job Readiness Score' analyzing 20+ parameters, tracking 10,000+ job postings for in-demand skills.",
+      "id": "cmr23omke0005nl00yzipqr77",
+      "title": "LegalKlarity",
+      "description": "Developed a Python-based content analysis microservice utilizing Generative AI to process and demystify complex legal jargon, directly addressing information asymmetry for non-expert users. Architected an NLP pipeline that extracts and summarizes critical clauses to help users identify potential financial risks in contracts. Integrated a Firebase database to store processed document insights, enabling fast retrieval and analysis of user queries.",
       "tags": [
         "Python",
-        "Flask",
-        "React.js",
+        "Google Cloud GenAI",
         "NLP",
-        "TensorFlow",
-        "PostgreSQL",
-        "AWS",
-        "OpenAI API"
+        "Firebase"
       ],
       "highlights": []
     },
     {
-      "id": "cmr0yio8t0010nle4k8qteiax",
-      "title": "MediCompare - Healthcare Price Transparency Platform",
-      "description": "Web platform that allows users to compare medical service prices across hospitals in real-time, helping reduce healthcare costs by up to 40%. Built healthcare aggregator enabling price comparison across 50+ hospitals, serving 2,000+ users and processing 500+ appointments with integrated payment gateway. Implemented geolocation-based search with Google Maps API handling 10,000+ service queries with sub-200ms response time and 45% user engagement increase.",
+      "id": "cmr23omke0006nl0056mroe0l",
+      "title": "SwacchSetu",
+      "description": "Engineered a sustainable supply chain platform connecting waste generators with composters, utilizing the OpenCage Geocoding API to perform proximity-based spatial analysis for optimized pickup logistics. Designed and implemented a normalized MySQL database schema to manage complex relationships between households, businesses, and farmers, ensuring data integrity for order tracking. Built the backend logic to track and visualize waste diversion metrics, creating a data-driven circular economy model that quantifies organic waste recycling efficiency.",
       "tags": [
-        "Spring Boot",
-        "React.js",
+        "Python",
+        "FastAPI",
         "MySQL",
-        "Google Maps API",
-        "Razorpay",
-        "AWS",
-        "Redis"
+        "OpenCage Geocoding API"
       ],
       "highlights": []
     }
@@ -107,39 +80,30 @@
       "category": "Languages",
       "skills": [
         {
-          "name": "Java"
-        },
-        {
           "name": "Python"
         },
         {
-          "name": "JavaScript"
+          "name": "SQL"
         },
         {
-          "name": "SQL"
+          "name": "C++"
+        },
+        {
+          "name": "JavaScript"
         }
       ]
     },
     {
-      "category": "Frontend",
+      "category": "Libraries",
       "skills": [
         {
-          "name": "HTML5"
+          "name": "NumPy"
         },
         {
-          "name": "CSS3"
+          "name": "Pandas"
         },
         {
-          "name": "React.js"
-        },
-        {
-          "name": "Redux"
-        },
-        {
-          "name": "Bootstrap"
-        },
-        {
-          "name": "Tailwind CSS"
+          "name": "Matplotlib"
         }
       ]
     },
@@ -147,54 +111,27 @@
       "category": "Backend",
       "skills": [
         {
-          "name": "Spring Boot"
-        },
-        {
-          "name": "Spring MVC"
-        },
-        {
-          "name": "Spring Security"
-        },
-        {
-          "name": "Hibernate"
-        },
-        {
-          "name": "JPA"
-        },
-        {
           "name": "Flask"
+        },
+        {
+          "name": "FastAPI"
         }
       ]
     },
     {
-      "category": "Database",
+      "category": "Databases & Querying",
       "skills": [
         {
           "name": "MySQL"
         },
         {
-          "name": "PostgreSQL"
-        },
-        {
-          "name": "MongoDB"
-        },
-        {
-          "name": "Redis"
+          "name": "Firebase"
         }
       ]
     },
     {
-      "category": "Cloud & DevOps",
+      "category": "Developer Tools",
       "skills": [
-        {
-          "name": "AWS"
-        },
-        {
-          "name": "Docker"
-        },
-        {
-          "name": "Jenkins"
-        },
         {
           "name": "Git"
         },
@@ -202,32 +139,24 @@
           "name": "GitHub"
         },
         {
-          "name": "Maven"
+          "name": "VS Code"
         },
         {
-          "name": "CI/CD"
+          "name": "JetBrains IDEs"
         }
       ]
     }
   ],
   "certifications": [
     {
-      "id": "cmr0yiot3001snle4y3609ok2",
-      "name": "AWS Certified Cloud Practitioner",
-      "issuer": "Amazon Web Services",
-      "date": "2025-06-01",
-      "credentialId": "https://aws.amazon.com/certification/certified-cloud-practitioner/"
-    },
-    {
-      "id": "cmr0yiot3001tnle4bs0klwso",
-      "name": "Oracle Certified Java Programmer (OCJP)",
-      "issuer": "Oracle Corporation",
-      "date": "2022-01-01",
-      "credentialId": "https://www.oracle.com/education/certification/java-programmer.html"
+      "id": "cmr23omke000mnl00ddcg1v04",
+      "name": "MongoDB Certified: Associate Developer & Associate Data Modeler",
+      "issuer": "MongoDB",
+      "date": "2026-04-01"
     }
   ],
   "footer": {
-    "copyright": "© 2026 Test SavyX",
+    "copyright": "© 2026 SAURAV SHANKAR",
     "note": "Generated with Portfolio Builder"
   }
 }
