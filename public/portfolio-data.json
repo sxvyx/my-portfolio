@@ -3,13 +3,12 @@
   "profile": {
     "name": "SAURAV SHANKAR",
     "initials": "SS",
-    "title": "Full-Stack Developer & Open Source Enthusiast",
-    "tagline": "Full-Stack Developer & Open Source Enthusiast",
-    "summary": "sxvyx is a skilled full-stack developer with expertise in TypeScript, JavaScript, HTML, and C. With a strong portfolio of projects, including ecommerce management systems and coding skills projects, sxvyx demonstrates a passion for innovative software development. Their experience in collaborating on open-source projects showcases their ability to work effectively in a team and contribute to the tech community.",
+    "title": "Computer Science undergraduate",
+    "tagline": "Computer Science undergraduate",
+    "summary": "SAURAV SHANKAR is a Computer Science undergraduate specializing in Data Analytics with a strong foundation in Python, SQL, and C++. He is experienced in building projects under tight deadlines through hackathons and is eager to apply analytical skills and technical knowledge to solve real-world data problems. He is a skilled developer with a strong passion for data-driven solutions.",
     "location": "New Delhi, Delhi",
-    "email": "oyelurker@gmail.com",
-    "phone": "+91 8595767831",
-    "avatar": "https://avatars.githubusercontent.com/u/192710520?v=4"
+    "email": "sauravshankar2911@gmail.com",
+    "phone": "+91 8595767831"
   },
   "nav": [
     {
@@ -37,37 +36,23 @@
       "href": "#certifications"
     }
   ],
-  "experiences": [
-    {
-      "id": "cmr2dqn750000nlj8wwby2t1i",
-      "role": "Volunteer QA & UI Tester",
-      "company": "Discord Community",
-      "location": "",
-      "start": "2019-11-01",
-      "end": "2021-06-01",
-      "current": false,
-      "bullets": [
-        "Reported valid interface bugs through official community channels, earning the Discord Bug Hunter Badge for consistent contributions."
-      ],
-      "stack": []
-    }
-  ],
+  "experiences": [],
   "education": [
     {
-      "id": "cmr2dqnfl0001nlj8nyfo32dw",
+      "id": "cmr3fz5oy004lnlbgwq4e0slf",
       "degree": "B.Tech in Computer Science",
       "institution": "SRM University Amravati",
       "location": "",
-      "start": "2024-01-01",
-      "end": "2028-01-01",
-      "details": "",
+      "start": "2024-06-01",
+      "end": "2028-06-01",
+      "details": "Computer Science",
       "gpa": "9.2 / 10.0"
     }
   ],
   "projects": [
     {
-      "id": "cmr2dqnnw0002nlj8ofz83cbq",
-      "title": "LegalKlarity – Demystifying Legal Documents with AI",
+      "id": "cmr3fz5yo004mnlbgahavqh62",
+      "title": "LegalKlarity",
       "description": "Developed a Python-based content analysis microservice utilizing Generative AI to process and demystify complex legal jargon, directly addressing information asymmetry for non-expert users. Architected an NLP pipeline that extracts and summarizes critical clauses to help users identify potential financial risks in contracts. Integrated a Firebase database to store processed document insights, enabling fast retrieval and analysis of user queries.",
       "tags": [
         "Python",
@@ -78,23 +63,14 @@
       "highlights": []
     },
     {
-      "id": "cmr2dqnnw0003nlj8r2p99jnh",
-      "title": "SwacchSetu – Organic Waste Management Platform",
+      "id": "cmr3fz5yo004nnlbgzexfwffd",
+      "title": "SwacchSetu",
       "description": "Engineered a sustainable supply chain platform connecting waste generators with composters, utilizing the OpenCage Geocoding API to perform proximity-based spatial analysis for optimized pickup logistics. Designed and implemented a normalized MySQL database schema to manage complex relationships between households, businesses, and farmers, ensuring data integrity for order tracking. Built the backend logic to track and visualize waste diversion metrics, creating a data-driven circular economy model that quantifies organic waste recycling efficiency.",
       "tags": [
         "Python",
         "FastAPI",
         "MySQL",
         "OpenCage Geocoding API"
-      ],
-      "highlights": []
-    },
-    {
-      "id": "cmr2dqnnw0004nlj865c5snfh",
-      "title": "rentie-cloth-rental",
-      "description": "GitHub repository for rentie-cloth-rental",
-      "tags": [
-        "JavaScript"
       ],
       "highlights": []
     }
@@ -107,10 +83,10 @@
           "name": "Python"
         },
         {
-          "name": "SQL"
+          "name": "C++"
         },
         {
-          "name": "C++"
+          "name": "SQL"
         },
         {
           "name": "JavaScript"
@@ -154,7 +130,7 @@
       ]
     },
     {
-      "category": "Developer Tools",
+      "category": "DevOps",
       "skills": [
         {
           "name": "Git"
@@ -169,34 +145,14 @@
           "name": "JetBrains IDEs"
         }
       ]
-    },
-    {
-      "category": "Programming Languages",
-      "skills": [
-        {
-          "name": "TypeScript"
-        },
-        {
-          "name": "HTML"
-        },
-        {
-          "name": "C"
-        }
-      ]
     }
   ],
   "certifications": [
     {
-      "id": "cmr2dqo4h000nnlj81yrdbr4t",
-      "name": "Smart India Hackathon 2025",
-      "issuer": "Smart India Hackathon",
-      "date": "2025-01-01"
-    },
-    {
-      "id": "cmr2dqo4h000onlj8yqkucdq8",
-      "name": "CodeBlindHunt 2024",
-      "issuer": "CodeBlindHunt",
-      "date": "2024-01-01"
+      "id": "cmr3fz6ht0053nlbgi4hqlmxf",
+      "name": "MongoDB Certified: Associate Developer & Associate Data Modeler",
+      "issuer": "MongoDB",
+      "date": "2026-04-01"
     }
   ],
   "footer": {
